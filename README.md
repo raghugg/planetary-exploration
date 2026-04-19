@@ -1,4 +1,6 @@
-# 🌍 Planetary Exploration
+# 🌍 [Planetary Exploration](https://raghugg.github.io/planetary-exploration)
+
+🔗 https://raghugg.github.io/planetary-exploration
 
 A browser-based incremental clicker game built for CS321 at George Mason University. Destroy planets, unlock new worlds, and build an unstoppable destruction empire.
 
